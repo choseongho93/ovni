@@ -1,7 +1,7 @@
-<p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
-</p>
+# nestjs_API
+Learning NestJS by making an enterprise ready API
 
+<<<<<<< HEAD
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
 [circleci-url]: https://circleci.com/gh/nestjs/nest
 
@@ -72,3 +72,9 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 Nest is [MIT licensed](LICENSE).
 >>>>>>> ce156ceab528714b2d5ed027afd5961a45dd41ed
+=======
+# 설치 순서
+1. `npm i -g @nestjs/cli`
+2. `nest new`
+3. `npm run start:dev`
+>>>>>>> 228f61af2ef67f478b1f7f0964bebd86f8b2d4ed
