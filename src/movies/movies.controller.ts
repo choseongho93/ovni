@@ -1,4 +1,7 @@
 import { Body, Controller, Delete, Get, Param, Patch, Post } from '@nestjs/common';
+import { MoviesService } from './movies.service';
+
+// 라우터 
 
 @Controller('movies')
 export class MoviesController {
