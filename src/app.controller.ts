@@ -4,7 +4,7 @@ import { Controller, Get } from '@nestjs/common';
 export class AppController {
     @Get()
     home(){
-        return "hello";
+        return "hello ovni";
     }
 
 }
